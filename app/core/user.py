@@ -9,3 +9,9 @@ class User:
 
     def set_username(self, the_name):
         self.username = the_name
+
+    def get_bio(self):
+        return self.bio
+
+    def set_bio(self, the_bio):
+        self.bio = the_bio
