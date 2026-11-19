@@ -24,5 +24,6 @@ services:
     build:
       context: ./src
       dockerfile: Production-Dockerfile
+    platform: linux/amd64
     depends_on:
       - postgres
