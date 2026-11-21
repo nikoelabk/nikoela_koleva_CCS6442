@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "fastapi-realworld-example-app"
-version = "1.3.1"
+version = "1.3.2"
 description = "Backend logic implementation for https://github.com/gothinkster/realworld with awesome FastAPI"
 authors = ["Nik Sidnev <sidnev.nick@gmail.com>"]
 license = "MIT"
